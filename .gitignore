@@ -5,6 +5,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+## OS temp files
+.DS_Store
+.temp
+
 # Runtime data
 pids
 *.pid
